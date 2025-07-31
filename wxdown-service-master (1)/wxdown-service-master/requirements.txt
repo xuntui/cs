@@ -1,0 +1,5 @@
+mitmproxy~=12.1.1
+watchdog~=4.0.2
+websockets~=15.0
+wincertstore==0.2.1
+rich~=14.0.0
